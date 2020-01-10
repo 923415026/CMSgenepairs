@@ -6,7 +6,7 @@ To install the CMSgenepairs, install from github using devtools
 ```
 install.packages(randomForest)
 library(devtools)
-install_github("923415026/CMSgenepairs")
+install_github("Hailong-Zheng/CMSgenepairs")
 ```
 Or you can download the .ZIP file and and unzip it.
 ```
