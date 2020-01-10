@@ -21,4 +21,5 @@ CMS_label=CMSgenepairs(exp)[,5]
 ```
 The example is the gene expression profile of GSE31595 from database Gene Expression Omnibus (GEO)
 # Data input
-Exp, a dataframe with gene expression profiles data values, samples in columns, genes in rows, rownames corresponding to Entrez IDs
+Exp, a dataframe with gene expression profiles data values, samples in columns, genes in rows, rownames corresponding to Entrez IDs. 
+The CMSgenepairs can be well applied to Affymetrix Array data (Series Matrix File) and RNA-seq data (RPKM). 
