@@ -24,6 +24,6 @@ The example is the gene expression profile of GSE31595 from database Gene Expres
 Exp, a dataframe with gene expression profiles data values, samples in columns, genes in rows, rownames corresponding to Entrez IDs. 
 The CMSgenepairs can be well applied to Affymetrix Array data (Series Matrix File) and RNA-seq data (RPKM). 
 
-# the
+# Contact email
 Please don't hesitate to address comments/questions/suggestions regarding this R package to:
 zhaowenyuan@ems.hrbmu.edu.cn
