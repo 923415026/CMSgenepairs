@@ -17,7 +17,7 @@ install.packages("CMSgenepairs",repos = NULL,type="source")
 ```
 library(CMSgenepairs)
 data(example)
-CMS_label=CMSgenepairs(exp)[,5]
+CMS_label=CMSgenepairs(exp)$predictedCMS
 ```
 The example is the gene expression profile of GSE31595 from database Gene Expression Omnibus (GEO)
 # Data input
